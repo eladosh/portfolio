@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    overflow: hidden; /* Fullscreen */
+    background-color: #111; /* Dark background */
+    color: #eee; /* Light text */
+    font-family: monospace; /* Code-like font */
+}
+
+canvas {
+    display: block;
+}
